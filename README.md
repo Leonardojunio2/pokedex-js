@@ -1,1 +1,4 @@
-# pokedex-js
+# Pokedex
+
+* PokeApi
+* Javascript
